@@ -1,11 +1,20 @@
 # 💰 AI-Earn-Toolkit · AI 赚钱百宝箱
-
+> 🚀 用 AI 帮上班族用碎片时间做副业，从提示词到真实订单，全流程开源。
+![GitHub stars](https://img.shields.io/github/stars/manpanzi/ai-business-tools?style=social)
+![GitHub forks](https://img.shields.io/github/forks/manpanzi/ai-business-tools?style=social)
+![License](https://img.shields.io/github/license/manpanzi/ai-business-tools)
 > 收集实用的 AI 赚钱工具、技巧和案例，专为上班族、副业探索者和 AI 初学者打造。  
 > *Curated collection of practical AI tools, tips & case studies to earn money online.*
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-
+## 📖 目录
+- [项目简介](#项目简介)
+- [我能提供什么](#我能提供什么)
+- [AI 提示词库](#ai-提示词库)
+- [工具导航](#ai工具导航)
+- [实战案例](#实战案例)
+- [如何支持我](#如何支持我)
 ---
 
 ## 📖 项目简介
