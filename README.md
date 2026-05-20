@@ -42,7 +42,9 @@
 1. **⭐ Star 本仓库** – 方便后续查阅更新  
 2. **📁 浏览「工具分类」** – 找到你感兴趣的领域  
 3. **🎯 选择一个案例模仿** – 从「使用案例」开始实践
-
+## 🤝 联系我
+- 微信：xxxx（备注：AI副业）
+- 小红书：@你的账号
 ```bash
 # 克隆仓库到本地（可选）
 git clone https://github.com/your-username/AI-Earn-Toolkit.git
