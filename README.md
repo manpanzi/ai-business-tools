@@ -34,6 +34,16 @@
 > 仓库中的所有内容均经过人工筛选与验证，拒绝空谈，只给干货。
 
 ---
+## 📁 提示词库（直接可用）
+
+| 文件 | 描述 | 热度 |
+|------|------|------|
+| [小红书爆款标题](prompts/小红书爆款标题.md) | 20+ 模板，覆盖主流类目 | ![查看](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/manpanzi/ai-business-tools/blob/main/prompts/小红书爆款标题.md&title=查看) |
+| [公众号情感文案](prompts/公众号情感文案.md) | 10+ 模板，激发共鸣 | 待更新 |
+| [Midjourney 绘画描述](prompts/Midjourney绘画描述.md) | 15+ 模板，生成优质图 | 待更新 |
+| [ChatGPT 编程助手](prompts/ChatGPT编程助手.md) | 10+ 模板，提高效率 | 待更新 |
+
+> 💡 提示词持续更新中，欢迎 Star 关注！
 
 ## 🚀 快速开始
 
